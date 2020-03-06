@@ -1,6 +1,5 @@
 # The ML - The best ML framework in the world, yo
 
-![Logo The ML]()
 <p align="center">
   <a href="https://github.com/thelastpolaris/theml">
     <img src="images/logo.png" alt="Logo">
