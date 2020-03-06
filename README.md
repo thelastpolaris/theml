@@ -1,3 +1,3 @@
-# theml
+# The ML - The best ML framework in the world, yo
 
-![alt text](image/logo.png)
+![Logo The ML](https://raw.githubusercontent.com/thelastpolaris/theml/master/images/logo.png)
